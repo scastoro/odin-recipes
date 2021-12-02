@@ -1,0 +1,31 @@
+html {
+    background-color: lightgrey;
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img.chicken,
+img.pie {
+    height: auto;
+    width: 450px;
+}
+
+h1 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 18px;
+    color: chocolate;
+}
+
+ol {
+    font-size: 20px;
+}
